@@ -1,5 +1,5 @@
 import numpy as np
-def feature_extraction_terminal_distance(char1:np.array,char2:np.array,rel_coord1:np.array,rel_coord2:np.array)->np.array:
+def calc_feature_vector(char1:np.array,char2:np.array,rel_coord1:np.array,rel_coord2:np.array)->np.array:
     """
     A function to calculate feature vector of two molecules, unsing principal information and relative coordinates of two related molecules.
     Params:

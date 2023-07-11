@@ -1,8 +1,6 @@
 import numpy as np
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split,LeaveOneOut
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.model_selection import train_test_split,LeaveOneOut
+
 from random import randint
 
 #prepare the RandomForestClassifier, used as is.
