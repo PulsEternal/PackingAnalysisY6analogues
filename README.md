@@ -17,7 +17,7 @@ This repository contains:
   * dataset_y.npy - tagged packing information for packing styles in dataset_X
 * code used to the generate the feature vector : calc_feature_vec.py
 * An example how to use the ML model to predict the packing style: example.py
-* An reference molecule structural file of Y6 molecule, for atom index reference in calc_feature_vec.py.
+* An reference molecule structural file of Y6 molecule, for atom index reference in calculating feature vector : y6_ref.sdf.
 * Visualized examples of classifications, under visual classifications directory.
 
 
