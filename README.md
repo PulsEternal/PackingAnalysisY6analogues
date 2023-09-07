@@ -3,7 +3,7 @@ Dataset and feature extracting code for manuscript
 # Concretized Structural Evolution Supported Assembly-Controlled Film-Forming Kinetics in Slot-die Coated Organic Photovoltaics
 
 **Please cite the original work if you intent to used either the dataset or code in this repository.**  
-
+[![DOI](https://zenodo.org/badge/665000699.svg)](https://zenodo.org/badge/latestdoi/665000699)
 
 
 ## contents
