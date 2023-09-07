@@ -15,7 +15,7 @@ This repository contains:
 * Dataset used to train the packing style classification model for Y6 analogues
   * dataset_X.npy - feature vector for extracted packing styles
   * dataset_y.npy - tagged packing information for packing styles in dataset_X
-* code used to the generate the feature vector : calc_feature_vec.py
+* Code used to the generate the feature vector : calc_feature_vec.py
 * An example how to use the ML model to predict the packing style: example.py
 * An reference molecule structural file of Y6 molecule, for atom index reference in calculating feature vector : y6_ref.sdf.
 * Visualized examples of classifications, under visual classifications directory.
@@ -34,7 +34,7 @@ This repository contains:
 
 * One could integrate the code and dataset with Jupiter Notebooks for better experience
 
-* suggested visualization package:
+* Suggested visualization package:  
   Atomic Simulation Environment
   [ASE]:https://wiki.fysik.dtu.dk/ase/#
 
